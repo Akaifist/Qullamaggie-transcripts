@@ -78,4 +78,22 @@ For Whisper model, you can change the model size:
 - First run will download the Whisper model (~150MB for base model)
 - Processing time depends on video length and model size
 - The script automatically handles video download and audio extraction
+👤 Maintainer
 
+@Akaifist
+
+Building the most complete, structured archive of Qullamaggie’s teachings.
+
+You can:
+	•	Clone it
+	•	Study it
+	•	Add to it
+	•	Train models on it
+
+⸻
+
+⚖️ License
+
+Personal knowledge archive.
+For education & research.
+Not for resale.
